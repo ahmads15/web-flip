@@ -1,0 +1,265 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "flip-page;user-success-click-button-masuk,biaya,karir,-dan-bantuan",
+        "keyword": "Scenario Outline",
+        "line": 8,
+        "name": "User success click button Masuk,Biaya,Karir, dan Bantuan",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "User open browser page flip.id",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "User click 'Masuk'",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4070000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "User can verify page 'masukPage'",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2180000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@s1",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "flip-page;user-success-click-button-masuk,biaya,karir,-dan-bantuan",
+        "keyword": "Scenario Outline",
+        "line": 8,
+        "name": "User success click button Masuk,Biaya,Karir, dan Bantuan",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "User open browser page flip.id",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "User click 'Biaya'",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2189000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "User can verify page 'biayaPage'",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 147000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@s1",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "flip-page;user-success-click-button-masuk,biaya,karir,-dan-bantuan",
+        "keyword": "Scenario Outline",
+        "line": 8,
+        "name": "User success click button Masuk,Biaya,Karir, dan Bantuan",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "User open browser page flip.id",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "User click 'Karir'",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 984000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "User can verify page 'karirPage'",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11291000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@s1",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "flip-page;user-success-click-button-masuk,biaya,karir,-dan-bantuan",
+        "keyword": "Scenario Outline",
+        "line": 8,
+        "name": "User success click button Masuk,Biaya,Karir, dan Bantuan",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "User open browser page flip.id",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "User click 'Bantuan'",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1116000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "User can verify page 'bantuanPage'",
+            "match": {
+              "location": "step-definitions\\soalNo2.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2402000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@s1",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "flip-page",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Flip page",
+    "tags": [],
+    "uri": "features\\soalNo2.feature"
+  }
+]
